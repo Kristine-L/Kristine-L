@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kristine-L
 - 👀 I’m interested in biology, programming, bioinformatics
-- 🌱 I’m currently learning programming in Python
+- 🌱 I’m currently learning Python
 
 
 <!---
